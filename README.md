@@ -1,6 +1,3 @@
-Here’s an example of a `README.md` file for your **Zerodha Landing Page** project built using HTML and CSS:
-
-```markdown
 # Zerodha Landing Page
 
 A fully responsive landing page for Zerodha built using only **HTML** and **CSS**. This project focuses on creating a clean, user-friendly interface that closely resembles the official Zerodha landing page.
